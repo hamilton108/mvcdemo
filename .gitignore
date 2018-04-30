@@ -2,5 +2,4 @@ out/
 *.swp
 build/
 .gradle/
-.idea/
 lib/
